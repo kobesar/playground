@@ -1,0 +1,18 @@
+[
+  {"product": "Laptop", "sales": 12500, "region": "North", "quarter": "Q1", "profit": 3200},
+  {"product": "Tablet", "sales": 8900, "region": "South", "quarter": "Q1", "profit": 2100},
+  {"product": "Phone", "sales": 15600, "region": "East", "quarter": "Q1", "profit": 4200},
+  {"product": "Monitor", "sales": 6700, "region": "West", "quarter": "Q1", "profit": 1800},
+  {"product": "Laptop", "sales": 13200, "region": "North", "quarter": "Q2", "profit": 3500},
+  {"product": "Tablet", "sales": 9500, "region": "South", "quarter": "Q2", "profit": 2400},
+  {"product": "Phone", "sales": 16800, "region": "East", "quarter": "Q2", "profit": 4500},
+  {"product": "Monitor", "sales": 7200, "region": "West", "quarter": "Q2", "profit": 2000},
+  {"product": "Laptop", "sales": 14100, "region": "North", "quarter": "Q3", "profit": 3800},
+  {"product": "Tablet", "sales": 10200, "region": "South", "quarter": "Q3", "profit": 2700},
+  {"product": "Phone", "sales": 17500, "region": "East", "quarter": "Q3", "profit": 4800},
+  {"product": "Monitor", "sales": 7800, "region": "West", "quarter": "Q3", "profit": 2200},
+  {"product": "Laptop", "sales": 15500, "region": "North", "quarter": "Q4", "profit": 4200},
+  {"product": "Tablet", "sales": 11000, "region": "South", "quarter": "Q4", "profit": 3000},
+  {"product": "Phone", "sales": 18900, "region": "East", "quarter": "Q4", "profit": 5200},
+  {"product": "Monitor", "sales": 8500, "region": "West", "quarter": "Q4", "profit": 2500}
+]

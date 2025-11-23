@@ -1,0 +1,17 @@
+product,sales,region,quarter,profit
+Laptop,12500,North,Q1,3200
+Tablet,8900,South,Q1,2100
+Phone,15600,East,Q1,4200
+Monitor,6700,West,Q1,1800
+Laptop,13200,North,Q2,3500
+Tablet,9500,South,Q2,2400
+Phone,16800,East,Q2,4500
+Monitor,7200,West,Q2,2000
+Laptop,14100,North,Q3,3800
+Tablet,10200,South,Q3,2700
+Phone,17500,East,Q3,4800
+Monitor,7800,West,Q3,2200
+Laptop,15500,North,Q4,4200
+Tablet,11000,South,Q4,3000
+Phone,18900,East,Q4,5200
+Monitor,8500,West,Q4,2500
